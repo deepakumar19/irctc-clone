@@ -1,0 +1,46 @@
+.container{
+    margin: 4rem auto;
+    align-content: center;
+    background-color: #a5a1a102;
+    border-radius: 5px;
+    padding: 10px;
+    border-radius: 8px;
+    width: 40%;
+    box-shadow: 0 0 10px #727070c0;
+  }
+  .formGroup{
+    display: flex;
+    flex-direction:column;
+    padding: 5px;
+  }
+  .formControl{
+    padding: 8px;
+    font-weight: 500;
+    margin-bottom: 4px;
+    border-radius: 4px;
+    border-color: rgb(204, 204, 204);
+    font-size: 1rem;
+    
+
+  }
+  .formLabel{
+    font-weight: 700;
+    margin-bottom: 4px;
+  }
+  .heading{
+    color: rgb(0, 51, 102);
+    text-align: center;
+    margin: 4px;
+  }
+  .btn{
+    background-color: rgb(0, 51, 102);
+    color:#fff;
+    padding: 10px;
+    outline: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  input[type=date]{
+    font-weight: 700;
+  }
